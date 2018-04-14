@@ -1,0 +1,98 @@
+body
+{
+	
+	font-family: 'Lato', sans-serif;
+	color:white;
+	margin: 0 !important;
+	background: linear-gradient(to right,gray, black);
+	
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto
+
+}
+
+#nav
+{
+	width:1000px;
+	text-align: center;
+	color : black;
+	float:left;
+}
+#logo
+{
+	text-align: center;
+	width:200px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.menu a
+{
+	text-decoration: none;
+	color: black;
+	width: 25%;
+	text-align: center;
+	border-bottom: 2px solid black;
+	letter-spacing: 2px;
+	font-size: 30px;
+	float:left;
+}
+.menu a:hover
+{
+	background-color: #262626;
+	color:white;
+	cursor: pointer;
+
+
+}
+#leftbar
+{
+	
+	margin-top: 30px;
+	width:200px;
+	float:left;
+	padding: 5px;
+	border: 2px solid black;
+	min-height: 500px;
+}
+
+
+.top
+{
+	text-align: center;
+	padding: 5px;
+	margin-top: 10px;
+	font-size: 30px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+
+
+}
+.news
+{
+	text-align: left;
+	border-bottom: 1px dotted white;
+}
+#content
+{
+	
+	margin-top: 30px;
+	width:  736px;
+	margin-left: 50px;
+	text-align: justify;
+
+}
+#footer
+{
+	width: 1000px;
+	text-align: center;
+	
+	padding: 30px;
+}
+
+
